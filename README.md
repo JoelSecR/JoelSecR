@@ -1,43 +1,53 @@
-# Hola! 👋 Soy Joel.
-### Ingeniero de Sistemas en formación | Especialista en Ciberseguridad, Redes y Desarrollo Web
+# 👋 ¡Hola! Soy Joel  
+
+### 🎓 Estudiante de Ingeniería de Sistemas e Informática  
+### 💻 Apasionado por el Desarrollo Web | 🔒 Ciberseguridad | 🌐 Redes
 
 ---
 
-## 👨‍💻 Acerca de Mí
+## 👨‍💻 Sobre Mí  
 
-Soy **Joel**, un apasionado **estudiante de Ingeniería de Sistemas e Informática**, actualmente cursando el **8vo ciclo** de mi carrera.
+Soy **Joel**, estudiante de la carrera de **Ingeniería de Sistemas e Informática**, actualmente cursando el **8vo ciclo**.  
+Me considero una persona apasionada por la tecnología, con gran interés en el **desarrollo de proyectos personales**, la **ciberseguridad**, y el **aprendizaje continuo**.  
 
-Mi enfoque profesional se centra en la convergencia de tres pilares fundamentales de la tecnología moderna:
-* **🌐 Desarrollo Web:** Construyendo interfaces y aplicaciones robustas y modernas.
-* **🔒 Ciberseguridad:** Asegurando sistemas y entendiendo la infraestructura defensiva.
-* **🔗 Redes:** Dominando la conectividad y la infraestructura de sistemas.
-
-Tengo un fuerte impulso por el **desarrollo de proyectos personales** y el aprendizaje continuo. Busco aplicar conocimientos teóricos para resolver problemas reales y contribuir al ecosistema tecnológico.
-
----
-
-## 🛠️ Stack Tecnológico Dominado
-
-Aquí están las herramientas y tecnologías que manejo y utilizo en mis proyectos:
-
-| Categoría | Tecnologías y Herramientas |
-| :--- | :--- |
-| **Frameworks & Librerías** | **React**, **Next.js**, **Angular**, **Astro** |
-| **Estilos & UI** | **Tailwind CSS**, HTML5, CSS3, JavaScript (JS) |
-| **Lenguajes de Programación** | **Java**, JavaScript (JS) |
-| **Control de Versiones** | **Git**, **GitHub** |
-| **Sistemas Operativos & Virtualización** | **Linux** (Debian, Ubuntu, **Kali Linux**), Máquinas Virtuales |
-| **Herramientas de Desarrollo** | **VS Code**, Comandos en Linux |
+Mis principales áreas de enfoque son:  
+- 🌐 **Desarrollo Web:** creación de aplicaciones y sitios modernos y escalables.  
+- 🔒 **Ciberseguridad:** fortalecimiento y protección de sistemas.  
+- 🔗 **Redes & Sistemas:** gestión de entornos Linux, servidores y virtualización.  
 
 ---
 
-## 🤝 Conéctate Conmigo
+## 🛠️ Tecnologías y Herramientas  
 
-¡Me encantaría conectar y colaborar! Puedes encontrarme en las siguientes plataformas:
-
-* **LinkedIn:** [https://www.linkedin.com/in/darwin-santamaria/]
-* **Portafolio (Opcional):** [https://portfolio-bice-five-76.vercel.app/]
+| Categoría | Tecnologías |
+|-----------|-------------|
+| **Frontend** | React, Next.js, Angular, Astro, Tailwind CSS, HTML5, CSS3, JavaScript |
+| **Backend & Lenguajes** | Java, JavaScript |
+| **Control de Versiones** | Git, GitHub |
+| **Sistemas Operativos** | Linux (Debian, Ubuntu, Kali Linux) |
+| **Virtualización & SysAdmin** | Máquinas Virtuales, Comandos Linux |
+| **Herramientas** | VS Code |
 
 ---
 
-**⭐ Siempre abierto a aprender y colaborar en nuevos desafíos tecnológicos. ¡Echa un vistazo a mis repositorios!**
+## 📌 Proyectos Personales  
+
+He desarrollado diversos **proyectos personales**, aplicando mis conocimientos para resolver problemas reales y mejorar mis habilidades técnicas.  
+*(Puedes incluir links a repositorios destacados aquí 👇)*  
+
+- [Proyecto 1](#)  
+- [Proyecto 2](#)  
+
+---
+
+## 🌐 Conéctate Conmigo  
+
+¡Estoy abierto a colaborar y aprender en nuevos desafíos tecnológicos!  
+
+- **LinkedIn:** [linkedin.com/in/darwin-santamaria](https://www.linkedin.com/in/darwin-santamaria/)  
+- **Portafolio:** [portfolio-bice-five-76.vercel.app](https://portfolio-bice-five-76.vercel.app/)  
+- **GitHub:** [github.com/TU-USUARIO](https://github.com/TU-USUARIO)  
+
+---
+
+⭐ *“La tecnología no solo es mi carrera, es mi pasión. Siempre en busca de aprender más y aportar a la comunidad tech.”*  
