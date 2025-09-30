@@ -33,10 +33,9 @@ Mis principales áreas de enfoque son:
 ## 📌 Proyectos Personales  
 
 He desarrollado diversos **proyectos personales**, aplicando mis conocimientos para resolver problemas reales y mejorar mis habilidades técnicas.  
-*(Puedes incluir links a repositorios destacados aquí 👇)*  
 
-- [Proyecto 1](#)  
-- [Proyecto 2](#)  
+- [Proyecto 1](#App full Stack de Catering)  
+- [Proyecto 2](#App de chat tipo mensseger)  
 
 ---
 
@@ -46,7 +45,7 @@ He desarrollado diversos **proyectos personales**, aplicando mis conocimientos p
 
 - **LinkedIn:** [linkedin.com/in/darwin-santamaria](https://www.linkedin.com/in/darwin-santamaria/)  
 - **Portafolio:** [portfolio-bice-five-76.vercel.app](https://portfolio-bice-five-76.vercel.app/)  
-- **GitHub:** [github.com/TU-USUARIO](https://github.com/TU-USUARIO)  
+- **GitHub:** [github.com/TU-USUARIO](https://github.com/JoelSecR)  
 
 ---
 
