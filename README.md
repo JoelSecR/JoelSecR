@@ -93,7 +93,7 @@ He desarrollado diversos **proyectos personales**, aplicando mis conocimientos p
 
 - **LinkedIn:** [linkedin.com/in/darwin-santamaria](https://www.linkedin.com/in/darwin-santamaria/)  
 - **Portafolio:** [portfolio-bice-five-76.vercel.app](https://portfolio-bice-five-76.vercel.app/)  
-- **GitHub:** [github.com/TU-USUARIO](https://github.com/JoelSecR)  
+- **GitHub:** [github.com/JoelSecR](https://github.com/JoelSecR)  
 
 ---
 
