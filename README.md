@@ -100,9 +100,9 @@ He desarrollado diversos **proyectos personales**, aplicando mis conocimientos p
 
 ## 📊 Mis Estadísticas de GitHub  
 
-![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=radical)  
+![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelSecR&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelSecR&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoelSecR&theme=radical)  
 
 ---
 
