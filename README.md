@@ -17,6 +17,18 @@ Mis principales áreas de enfoque son:
 
 ---
 
+
+## 🤝 Experiencia en Comunidades  
+
+Actualmente participo activamente en comunidades tecnológicas que me permiten crecer y aportar:  
+
+- 🤝 **Voluntario en UTP Computer Society** → Comité de Proyectos.  
+- 🔗 **Miembro del Club Blockchain PUCP** → Área de Logística.  
+
+Estas experiencias me han permitido fortalecer mis **habilidades de trabajo en equipo, gestión de proyectos y liderazgo**, además de ampliar mi red de contactos en el mundo tecnológico.  
+
+---
+
 ## 🛠️ Tecnologías y Herramientas  
 
 | Categoría | Tecnologías |
@@ -38,6 +50,17 @@ He desarrollado diversos **proyectos personales**, aplicando mis conocimientos p
 - [Proyecto 2](#App de chat tipo mensseger)  
 
 ---
+
+### 📖 Actualmente aprendiendo
+- 🐳 Docker
+- ☁️ AWS
+- 🐍 Python
+
+### 🎯 Intereses
+- 💡 Innovación en Ciberseguridad
+- 📚 Aprendizaje continuo de nuevas tecnologías
+- 🌍 Contribuir a proyectos open source
+
 
 ## 🌐 Conéctate Conmigo  
 
